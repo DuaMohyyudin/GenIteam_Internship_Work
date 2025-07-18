@@ -19,6 +19,7 @@ What it does: Automatically adjusts how fast the AI learns during training.
 
 Simple analogy: Like learning to ride a bike:
 
+
 Start with training wheels (small learning rate)
 
 Then go faster (increase learning rate)
